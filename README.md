@@ -18,7 +18,7 @@ My background combines:
 
 • Telecom-grade System Reliability
 
-I focus on building secure, scalable, fault-tolerant systems that improve deployment speed, reduce MTTR, and optimize operational cost.
+I focus on building secure, scalable, fault-tolerant systems that improve deployment speed, reduce MTTR and optimize operational cost.
 
 🛠 Technical Expertise
 ☁️ Cloud Platforms
