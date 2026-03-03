@@ -13,6 +13,7 @@ My background combines:
 • CI/CD & Automation
 
 • Kubernetes Platform Operations
+
 • Production Incident Management
 
 • Telecom-grade System Reliability
@@ -85,6 +86,7 @@ I focus on building secure, scalable, fault-tolerant systems that improve deploy
 • CCNP-level networking knowledge
 
 💼 Professional Experience
+
 🔹 DevOps Engineer (Freelance Project) | 2025 – Present
 
 • Designed AWS production & staging environments
