@@ -1,7 +1,6 @@
 🚀 Phone Myint Mo
 
 DevOps Engineer | Cloud Infrastructure | SRE | AWS | Kubernetes
-Bangkok, Thailand
 
 👋 About Me
 
