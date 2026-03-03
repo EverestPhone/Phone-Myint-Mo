@@ -9,9 +9,12 @@ I am a DevOps Engineer with 4+ years of experience designing, automating and ope
 My background combines:
 
 • Cloud Infrastructure Engineering
+
 • CI/CD & Automation
+
 • Kubernetes Platform Operations
 • Production Incident Management
+
 • Telecom-grade System Reliability
 
 I focus on building secure, scalable, fault-tolerant systems that improve deployment speed, reduce MTTR, and optimize operational cost.
@@ -20,77 +23,112 @@ I focus on building secure, scalable, fault-tolerant systems that improve deploy
 ☁️ Cloud Platforms
 
 • AWS (VPC, EC2, S3, RDS, DynamoDB, IAM, Lambda, CloudFront, Cloud Formation, SNS/SQS, etc...)
+
 • Azure
+
 • GCP
 
 📦 Containers & Orchestration
 
 • Docker
+
 • Kubernetes (EKS, GKE, AKS)
+
 • Helm
 
 ⚙️ CI/CD & Infrastructure as Code
 
 • Terraform
+
 • Jenkins
+
 • GitHub Actions
+
 • Bitbucket Pipelines
+
 • Ansible
 
 📊 Monitoring & Observability
 
 • Prometheus
+
 • Grafana
+
 • ELK / EFK Stack
+
 • Datadog
+
 • AWS CloudWatch
 
 🗄 Databases
 
 • RDS (Oracle & PostgreSQL)
+
 • PostgreSQL
+
 • MongoDB
+
 • MySQL
+
 • DynamoDB
 
 🌐 Networking & Security
 
 • TCP/IP, DNS, VPN
+
 • Load Balancing
+
 • IAM, NSG, Network ACL
+
 • TLS/SSL
+
 • CCNP-level networking knowledge
 
 💼 Professional Experience
 🔹 DevOps Engineer (Freelance Project) | 2025 – Present
 
 • Designed AWS production & staging environments
+
 • Provisioned infrastructure using Terraform
+
 • Managed EKS clusters and VPC networking
+
 • Built CI/CD pipelines for automated deployments
+
 • Implemented CloudWatch dashboards & alarms
+
 • Led production incident RCA & reliability improvements
 
 🔹 SRE / DevOps Engineer | Innovis Thailand Co., Ltd (2024–2025)
 
 • Designed CI/CD pipelines using Bitbucket
+
 • Automated infrastructure provisioning
+
 • Reduced configuration drift
+
 • Improved MTTR via structured incident response
+
 • Strengthened monitoring & alert systems
 
 🔹 System Engineer | MPT-KSGM KDDI Summit Global (2022–2024)
 
 • Managed Linux production servers
+
 • Administered Oracle RDS (monitoring, tuning, backup validation)
+
 • Implemented Disaster Recovery improvements
+
 • Supported backend services and REST APIs
 
 🔹 IP Network & System Engineer | Telecom International Myanmar (2019–2022)
 
 • Managed enterprise network & server infrastructure
+
 • Supported data center operations
+
 • Performed incident troubleshooting & system optimization
+
 • Created system documentation and administrative reports
 
 📈 Key Achievements
@@ -108,9 +146,13 @@ I focus on building secure, scalable, fault-tolerant systems that improve deploy
 📂 Highlighted Projects
 
 • terraform-aws-infra → Production-ready Terraform modules
+
 • eks-production-cluster → Kubernetes deployment templates
+
 • ci-cd-pipelines → Jenkins / GitHub Actions pipelines
+
 • monitoring-stack → Prometheus + Grafana setup
+
 • aws-high-availability-architecture → HA reference architecture
 
 🎓 Education
@@ -133,7 +175,9 @@ Technological University (Magway)
 📫 Connect With Me
 
 • LinkedIn: https://www.linkedin.com/in/phone-myint-mo-725662m/
+
 • Email: phonemyintmo9588@gmail.com
+
 • Location: Bangkok, Thailand
 
 ## 📊 GitHub Stats
