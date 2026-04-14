@@ -4,7 +4,7 @@ DevOps Engineer | Cloud Infrastructure | SRE | AWS | Kubernetes
 
 👋 About Me
 
-I am a DevOps Engineer with 4+ years of experience designing, automating and operating high-availability production environments across AWS and enterprise infrastructure.
+I am a DevOps Engineer with 6+ years of experience designing, automating and operating high-availability production environments across AWS and enterprise infrastructure.
 
 My background combines:
 
