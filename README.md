@@ -87,7 +87,7 @@ I focus on building secure, scalable, fault-tolerant systems that improve deploy
 
 💼 Professional Experience
 
-🔹 DevOps Engineer (Freelance Project) | 2025 – Present
+🔹 DevOps Engineer |Horizon telecom Co.,Ltd | 2025 – Present
 
 • Designed AWS production & staging environments
 
